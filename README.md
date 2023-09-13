@@ -25,9 +25,9 @@ d) Acidente: Data, Hora e Local;
 • endereço 
 • telefones. 
 
- O sistema deve armazenar as vendas realizadas: 
- As vendas devem conter uma identificação, qual funcionário tirou o pedido, qual cliente, data para entrega dos produtos, local de entrega, referência para entrega. 
- Os produtos podem ser identificados por nome do produto, valor unitário e quantidade.
+O sistema deve armazenar as vendas realizadas: 
+As vendas devem conter uma identificação, qual funcionário tirou o pedido, qual cliente, data para entrega dos produtos, local de entrega, referência para entrega. 
+Os produtos podem ser identificados por nome do produto, valor unitário e quantidade.
 
 3. O supermercado possui vários funcionários.
 Os funcionários possuem no sistema os seguintes atributos: matrícula, nome, salário, telefone, cargo, data de nascimento.
@@ -39,7 +39,7 @@ Sobre os produtos adquiridos pelo supermercado, deseja que seja especificado um 
 
 4.Entidades: Peças, Depósitos, Fornecedor, Projeto, Funcionário e Departamento.
 
- Requisitos: 
+Requisitos: 
 a) Cada Funcionário pode estar alocado a somente um Departamento; 
 b) Cada Funcionário pode pertencer a mais de um Projeto; 
 c) Um projeto pode utilizar-se de vários Fornecedores e de várias Peças; 
